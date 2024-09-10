@@ -8,6 +8,7 @@ import (
 	_ "modernc.org/sqlite"
 )
 
+// to compare branches
 const (
 	ParcelStatusRegistered = "registered"
 	ParcelStatusSent       = "sent"
